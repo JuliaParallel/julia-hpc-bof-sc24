@@ -9,6 +9,10 @@ TBA
 
 TBA
 
+## The Julia Language for Productive High-Performance Computing Tutorial
+
+This year we will also host a [Tutorial at SC24](https://github.com/JuliaParallel/julia-hpc-tutorial-sc24)
+
 ## Community
 
 * The Julia Language, and the Julia for HPC communities are incredibly welcoming, for
