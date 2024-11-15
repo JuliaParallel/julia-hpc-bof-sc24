@@ -3,11 +3,22 @@
 
 # Julia for HPC Birds of a Feather session @ SC24
 
-TBA
+This repository contains the brief talks presented during the the "[Julia for
+HPC](https://sc24.conference-program.com/presentation/?id=bof136&sess=sess648)" Birds of a
+Feather session at the
+[SuperComputing24](https://sc24.supercomputing.org/)
+(SC24) conference held in Atlanta (Georgia, USA) on Wednesday, 20 November 2024
+12:15pm - 1:15pm EST
 
 ## Survey
 
-TBA
+Please fill out our [Survey](https://forms.gle/QyJZuFqov6zFm1UUA). It will only take a
+minute!
+
+This survey aims to gauge the HPC community's usage of Julia – as well as its future
+interest in deploying Julia codes on HPC systems. We've been surveying the community for
+over 2 years now, and hope to be able to identify trends. Therefore, even if you filled 
+this or similar surveys out before, please do do again.
 
 ## The Julia Language for Productive High-Performance Computing Tutorial
 
