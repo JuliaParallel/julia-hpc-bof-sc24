@@ -36,5 +36,23 @@ community meets monthy on Zoom.
 [Solving PDEs in parallel on GPUs with Julia](https://pde-on-gpu.vaw.ethz.ch/)
 
 ## Agenda:
+1. [Julia for High Performance Computing](./SC24-BoF-Julia.pptx.pdf)
+2. [Julia for ACCelerators](./Julia%20for%20ACCelerators%20(JACC)-BoF.pptx.pdf)
 
-TBA
+### Panelists: 
+
+- William S. Moses (UIC, USA)
+- Pedro Valero-Lara  (ORNL, USA)
+- Julian Samaroo (MIT, USA)
+- Felipe Tome (USP, BR)
+- Steven Hahn (ORNL, USA)
+
+### Moderator:
+
+Rabab Alomairy (MIT, USA)
+
+###Organizers:
+
+- Johannes Blaschke (LBNL, USA)
+- William F Godoy (ORNL, USA)
+- Mose Giordano (UCL, USA)
