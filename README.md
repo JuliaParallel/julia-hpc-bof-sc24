@@ -43,7 +43,7 @@ community meets monthy on Zoom.
 |---------------------|------------------------------|----------------------------------|
 | 12:15pm - 12:20pm   | Rabab Alomaiy (MIT)          |  [Opening (Julia for HPC)](./SC24-BoF-Julia.pptx.pdf)      |
 | 12:20pm - 12:25pm   | William S. Moses (UIUC)      |  not yet                                |
-| 12:25pm - 12:30pm   | Pedro Valero-Lara (ORNL)     | [Leveraging HPC Meta-Programming and Performance Portability with the Just-in-Time and LLVM-based Julia Language] (./Julia%20for%20ACCelerators%20(JACC)-BoF.pptx.pdf)|
+| 12:25pm - 12:30pm   | Pedro Valero-Lara (ORNL)     | [Leveraging HPC Meta-Programming and Performance Portability with the Just-in-Time and LLVM-based Julia Language](./Julia%20for%20ACCelerators%20(JACC)-BoF.pptx.pdf)|
 | 12:30pm - 12:35pm   | Julian Samaroo (MIT)         | [Dagger.jl](https://slides.com/juliansamaroo/deck)                        |
 | 12:35pm - 12:40pm   | Felipe Tome (USP)            | not yet                             |
 | 12:40pm - 12:45pm   | Steven Hahn (ORNL)           | not yet                              |
