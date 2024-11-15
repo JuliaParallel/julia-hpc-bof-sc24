@@ -47,11 +47,11 @@ community meets monthy on Zoom.
 - Felipe Tome (USP, BR)
 - Steven Hahn (ORNL, USA)
 
-### Moderator:
+#### Moderator:
 
 Rabab Alomairy (MIT, USA)
 
-###Organizers:
+### Organizers:
 
 - Johannes Blaschke (LBNL, USA)
 - William F Godoy (ORNL, USA)
