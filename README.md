@@ -36,8 +36,6 @@ community meets monthy on Zoom.
 [Solving PDEs in parallel on GPUs with Julia](https://pde-on-gpu.vaw.ethz.ch/)
 
 ## Agenda:
-1. [Julia for High Performance Computing](./SC24-BoF-Julia.pptx.pdf)
-2. [Julia for ACCelerators](./Julia%20for%20ACCelerators%20(JACC)-BoF.pptx.pdf)
 
 | Time                | Speakers                     | Title                            |
 |---------------------|------------------------------|----------------------------------|
