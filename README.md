@@ -39,14 +39,13 @@ community meets monthy on Zoom.
 
 | Time                | Speakers                     | Title                            |
 |---------------------|------------------------------|----------------------------------|
-| 12:15pm - 12:20pm   | Rabab Alomaiy (MIT)          |  Opening (Julia for HPC)         |
-| 12:20pm - 12:25pm   | William S. Moses (UIUC)      |  not yet                                |
+| 12:15pm - 12:20pm   | Rabab Alomairy (MIT)          |  [Opening (Julia for HPC)](./SC24-BoF-Julia.pdf)         |
+| 12:20pm - 12:25pm   | William S. Moses (UIUC)      |  [Automatic Differentiation and Parallelization in Julia](./julia-bof.pdf)                                |
 | 12:25pm - 12:30pm   | Pedro Valero-Lara (ORNL)     | [Leveraging HPC Meta-Programming and Performance Portability with the Just-in-Time and LLVM-based Julia Language](./Julia%20for%20ACCelerators%20(JACC)-BoF.pptx.pdf)|
 | 12:30pm - 12:35pm   | Julian Samaroo (MIT)         | [Dagger.jl](https://slides.com/juliansamaroo/deck)                        |
-| 12:35pm - 12:40pm   | Felipe Tome (USP)            | not yet                             |
-| 12:40pm - 12:45pm   | Steven Hahn (ORNL)           | not yet                              |
-| 12:45pm - 1:15pm    | Everyone                     | not yet                             |
-
+| 12:35pm - 12:40pm   | Felipe Tome (USP)            | DaggerMPI                             |
+| 12:40pm - 12:45pm   | Steven Hahn (ORNL)           | [My Scientific Journey to Embracing Julia](./StevenHahn-JuliaForHPC.pdf)|
+| 12:45pm - 1:15pm    | Everyone                     | Discussion                             |
 Discussions moderated by Rabab Alomairy (MIT), Johannes Blaschke (LBNL), William F Godoy (ORNL), and Mose Giordano (UCL).
 ### Panelists: 
 
